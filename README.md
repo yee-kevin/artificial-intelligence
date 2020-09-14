@@ -25,5 +25,5 @@ Conditional Variational Autoencoder (CVAE) implementation with 5 Conv2d layers.
 
 #### 7. HW7 [Code] - Pytorch Backward Hooks and Guided Backpropagation
 Pytorch backward hooks for analysing gradient statistics and guided backpropagation to visualise neurons that act like detectors of particular image features.
-
-![Image of guided bp 1](imgs/guided-bp-1.png)
+Guided Backpropagation examples:
+![Image of guided bp 1](imgs/guided-bp-1.png) ![Image of guided bp 2](imgs/guided-bp-2.png)
