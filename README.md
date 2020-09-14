@@ -12,3 +12,6 @@ Flight Itinerary: A flight has a starting city and time and an ending city and t
 
 #### 2. HW2 [Code] - Semi-Magic Square Constraint Satisfaction Problem (CSP)
 Consider a 3x3 array where each of whose entries can be either 1, 2 or 3. Find an assignment to each of the entries so that the entries in each row, in each column and in one of the diagonals are different.
+
+#### 3. HW3 [Code] - Logistic Delivery Planning Domain Definition Language (PDDL)
+Input domain/problem files into any online PDDL editor/solver.
