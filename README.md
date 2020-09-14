@@ -9,3 +9,6 @@ Solving the Word Ladder & Flight Itinerary problems using tree search (breadth_f
 Word Ladder: In a word ladder puzzle, you are given a start word and a goal word. You must transform the start word into the goal word by transforming one letter at a time,
 and all intermediate words must be valid as well.  
 Flight Itinerary: A flight has a starting city and time and an ending city and time. Cities are represented as strings and times as integers. Using a start city, starting time, destination city and deadline time, find the sequence of flights, starting in the starting city, leaving sometime at or after the starting time, and arriving at the destination before (or at) the deadline.
+
+#### 2. HW2 [Code] - Semi-Magic Square Constraint Satisfaction Problem (CSP)
+Consider a 3x3 array where each of whose entries can be either 1, 2 or 3. Find an assignment to each of the entries so that the entries in each row, in each column and in one of the diagonals are different.
