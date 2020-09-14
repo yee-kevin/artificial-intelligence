@@ -19,3 +19,6 @@ Input domain/problem files into any online PDDL editor/solver.
 #### 4. HW4 [Code] - Pytorch Introduction
 
 #### 5. HW5 [Code] - Neural Networks in PyTorch
+
+#### 6. HW6 [Code] - Conditional Variational Autoencoder (CVAE)
+Conditional Variational Autoencoder (CVAE) implementation with 5 Conv2d layers.
