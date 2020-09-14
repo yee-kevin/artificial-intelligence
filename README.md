@@ -23,4 +23,5 @@ Input domain/problem files into any online PDDL editor/solver.
 #### 6. HW6 [Code] - Conditional Variational Autoencoder (CVAE)
 Conditional Variational Autoencoder (CVAE) implementation with 5 Conv2d layers.
 
-#### 7. HW7 [Code] - Pytorch Hooks and Guided Backpropagation
+#### 7. HW7 [Code] - Pytorch Backward Hooks and Guided Backpropagation
+Pytorch backward hooks for analysing gradient statistics and guided backpropagation to visualise neurons that act like detectors of particular image features.
